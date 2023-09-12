@@ -4,7 +4,6 @@ The aim of this project is how to complain for Online Harassment/Abusive Posts w
 # Table of Contents
 - [Installation](#installation)
 - [Examples](#examples)
-- [Changelog](#changelog)
 - [Authors and Acknowledgments](#authors-and-acknowledgments)
 - [Contact](#contact)
 - [FAQ](#faq)
@@ -34,7 +33,7 @@ Abusive words found in the Video.
 To report the issue, contact abuse@example.com.
 Report abusive content to this email address.
 
-## Authors and Acknowledments
+## Authors and Acknowledgments
 • Srilakshmi Vinnakota
 
 ## Contact
